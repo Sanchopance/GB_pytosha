@@ -95,6 +95,7 @@ def findcontacts():
         print(results)
 
 
+
 # Основная программа
 print('\nПривет брат, это наша телефонная книга')
 conn = sqlite3.connect('my.db')
