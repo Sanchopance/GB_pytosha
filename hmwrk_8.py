@@ -25,4 +25,4 @@ reading_file_to_dict(1)
 reading_file_to_dict(2)
 # print(database)
 print_children('Ignatov')
-# Создать решение для вывода детей по фамилии
+
