@@ -1,0 +1,5 @@
+id;par_id;name;surname;bd
+1;1;Egor;Ivanov;01.08.2022
+2;1;Misha;Ivanov;02.08.2022
+3;3;Valera;Ignatov;01.01.2021
+4;4;Fedya;Petov
